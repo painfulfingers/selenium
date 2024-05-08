@@ -1,1 +1,1 @@
-Twiiter bot that tweets when the internet speed is slow
+X bot that tweets when the internet speed is slow
